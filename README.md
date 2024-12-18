@@ -45,6 +45,9 @@ models.py
 # OUTPUT
 ![Screenshot (101)](https://github.com/user-attachments/assets/f9709a21-6ed0-4d40-a3ab-693933da42be)
 
+![e r diagram](https://github.com/user-attachments/assets/32907dcc-2080-4b77-ae8e-052e6049c35e)
+
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
